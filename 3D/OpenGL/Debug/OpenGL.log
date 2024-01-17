@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Computer Graphics\3D\OpenGL\main.cpp(44,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Computer Graphics\3D\OpenGL\main.cpp(44,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  OpenGL.vcxproj -> D:\Computer Graphics\3D\Debug\OpenGL.exe
